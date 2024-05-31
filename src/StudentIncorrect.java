@@ -10,7 +10,7 @@ public class StudentIncorrect {
     }
 
     public int hashCode(){
-        return course;
+        return 10;
     }
 
     public boolean equals(Object obj){
